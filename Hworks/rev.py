@@ -8,7 +8,7 @@
 
 # print("Reversed Number: " + str(reversed_num))
 
-num =int(input("Enter a number : "))
+num =int(input("Enter a Number : "))
 x=num
 a=str(num)[::-1]
 if str(x)==a:
